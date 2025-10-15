@@ -1,0 +1,150 @@
+{
+  "cookies": [
+    {
+      "name": "__utma",
+      "value": "187725481.972415714.1750050243.1750050243.1750050243.1",
+      "domain": ".portal.worldoptions.com",
+      "path": "/",
+      "expires": 1784610243.254969,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "187725481",
+      "domain": ".portal.worldoptions.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "187725481.1750050243.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+      "domain": ".portal.worldoptions.com",
+      "path": "/",
+      "expires": 1765818243,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmt",
+      "value": "1",
+      "domain": ".portal.worldoptions.com",
+      "path": "/",
+      "expires": 1750050843,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmb",
+      "value": "187725481.1.10.1750050243",
+      "domain": ".portal.worldoptions.com",
+      "path": "/",
+      "expires": 1750052043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALB",
+      "value": "W6bNFH2QPc1DEgcZLGE8W2AigYV8M5trVH/v+LxEuKyxW6Wh/Cp8s9u9vcIc+vSh2b/c1ymYqlH6RBCUODCqfQo/QmXBRcNGp5HeadLPmxRUtyyZSCEPKBxf4f5H",
+      "domain": "portal.worldoptions.com",
+      "path": "/",
+      "expires": 1750655070.10467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "W6bNFH2QPc1DEgcZLGE8W2AigYV8M5trVH/v+LxEuKyxW6Wh/Cp8s9u9vcIc+vSh2b/c1ymYqlH6RBCUODCqfQo/QmXBRcNGp5HeadLPmxRUtyyZSCEPKBxf4f5H",
+      "domain": "portal.worldoptions.com",
+      "path": "/",
+      "expires": 1750655070.10474,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserName",
+      "value": "",
+      "domain": "portal.worldoptions.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Password",
+      "value": "",
+      "domain": "portal.worldoptions.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://portal.worldoptions.com",
+      "localStorage": [
+        {
+          "name": "portalCountry",
+          "value": "en-AU"
+        }
+      ]
+    },
+    {
+      "origin": "https://au-customer.worldoptions.com",
+      "localStorage": [
+        {
+          "name": "Authorization",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxYTk1NWRmNjNkM2E0YzliYWRjNGU5NDllN2U5MmUwYyIsInVuaXF1ZV9uYW1lIjoiV09BIFRlc3QgWkVSTyBVcGxpZnQgWkVSTyBNYXJrdXAiLCJyb2xlIjoiMCIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvdXNlcmRhdGEiOiJ7XCJQYXJlbnREYXRhXCI6bnVsbCxcIlJvbGVTdW1tYXJ5XCI6e1wiY3VzdG9tZXJJZFwiOjMwNDksXCJjdXN0b21lclJvbGVcIjowLFwicGFyZW50SWRcIjozLFwicGFyZW50Um9sZVwiOjMsXCJtdWx0aVNpdGVJZFwiOm51bGwsXCJTYWxlc1BlcnNvbklkXCI6bnVsbCxcIkRlc2lnbmF0aW9uXCI6MCxcIkxvZ2luSWRcIjpcIlwiLFwiUm9sZUdyb3VwSWRcIjpudWxsLFwiQWNjb3VudFN0YXR1c1wiOjAsXCJEZW1vQ3VzdG9tZXJcIjpmYWxzZSxcIklzQ3VzdG9tZXJQYXltZW50TW9kZVRvcFVwXCI6dHJ1ZSxcImN1c3RvbWVyUGF5bWVudE1vZGVcIjo2LFwiUmVmSWRcIjpcIjFhOTU1ZGY2M2QzYTRjOWJhZGM0ZTk0OWU3ZTkyZTBjXCIsXCJpc1RpY2tldGluZ0FsbG93ZWRcIjp0cnVlLFwiV2FycmFudHlFbmFibGVkXCI6ZmFsc2UsXCJpc1Jlc2VsbGVyX0N1c3RvbWVyXCI6ZmFsc2UsXCJJc0ZyYW5jaGlzZUdyb3VwQWxsb3dcIjpmYWxzZSxcIklzRnV0dXJlU2hpcG1lbnRBbGxvd1wiOmZhbHNlLFwiSXNUcmFuc2l0SW5zdXJhbmNlT2ZmZXJpbmdPblwiOnRydWUsXCJJc1Byb3RlY3Rpb25QbGFuXCI6ZmFsc2UsXCJJc0FkbWluXCI6ZmFsc2UsXCJJc0FkbWluU3RhZmZcIjpmYWxzZSxcIklzRnJhbmNoaXNlXCI6ZmFsc2UsXCJJc1Jlc2VsbGVyXCI6ZmFsc2UsXCJJc1NhbGVzUGVyc29uXCI6ZmFsc2UsXCJJc1N0YWZmXCI6ZmFsc2UsXCJJc0FkbWluU2FsZXNQZXJzb25cIjpmYWxzZSxcIklzTXVsdGlTaXRlXCI6ZmFsc2UsXCJJc1Jlc2VsbGVyT3JGcmFuY2hpc2VPclNhbGVzUGVyc29uT3JTdGFmZlwiOmZhbHNlLFwiSXNSZXNlbGxlck9yRnJhbmNoaXNlT3JTdGFmZlwiOmZhbHNlLFwiSXNSZXNlbGxlck9yRnJhbmNoaXNlXCI6ZmFsc2UsXCJJc011bHRpU2l0ZUN1c3RvbWVyXCI6ZmFsc2UsXCJJc0ZyYW5jaGlzZV9DdXN0b21lclwiOnRydWUsXCJJc1Jlc2VsbGVyX0N1c3RvbWVyXCI6ZmFsc2UsXCJJc0ZyYW5jaGlzZVNhbGVzUGVyc29uX0N1c3RvbWVyXCI6ZmFsc2UsXCJJc0FkbWluU2FsZXNQZXJzb25fQ3VzdG9tZXJcIjpmYWxzZX0sXCJBdXRoVHlwZVwiOjJ9IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvY291bnRyeSI6ImVuLUFVIiwibmJmIjoxNzUwMDUwMjgxLCJleHAiOjE3NTAwODI2ODEsImlhdCI6MTc1MDA1MDI4MSwiaXNzIjoic2VsZiIsImF1ZCI6Imh0dHBzOi8vcG9ydGFsLndvcmxkb3B0aW9ucy5jb20vIn0.FtH3kFPZ628tk4hYh3s6Rk7klQIK5vtn5lq48uw8FBE_en-AU"
+        },
+        {
+          "name": "ProfilePictureURL",
+          "value": ""
+        },
+        {
+          "name": "hdfWoSiteUrl",
+          "value": "https://au-customerapi.worldoptions.com/api/"
+        },
+        {
+          "name": "IsLoqateAPIAllowed",
+          "value": "false"
+        },
+        {
+          "name": "CompanyLogo",
+          "value": ""
+        },
+        {
+          "name": "hdfWoAutoPrinterInterval",
+          "value": "0"
+        },
+        {
+          "name": "IsAdminMultiTabEnabled",
+          "value": "true"
+        },
+        {
+          "name": "IsMultiTabEnabled",
+          "value": "false"
+        },
+        {
+          "name": "storeShippingAccountList",
+          "value": "0"
+        },
+        {
+          "name": "apc_local_id",
+          "value": "b8c9b567-6909-4287-b97e-4159fb312665"
+        }
+      ]
+    }
+  ]
+}

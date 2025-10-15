@@ -1,0 +1,58 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://prelive-au-customer.worldoptions.com",
+      "localStorage": [
+        {
+          "name": "storeShippingAccountList",
+          "value": "0"
+        },
+        {
+          "name": "Authorization",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIwODg3OTQ5ZjMwODc0YjE4OTM2ZDQzNmY3YjBmNTk2YyIsInVuaXF1ZV9uYW1lIjoiV29ybGQgT3B0aW9ucyBMaW1pdGVkIiwicm9sZSI6IjAiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3VzZXJkYXRhIjoie1wiUGFyZW50RGF0YVwiOm51bGwsXCJSb2xlU3VtbWFyeVwiOntcImN1c3RvbWVySWRcIjoyLFwiY3VzdG9tZXJSb2xlXCI6MCxcInBhcmVudElkXCI6MyxcInBhcmVudFJvbGVcIjozLFwibXVsdGlTaXRlSWRcIjpudWxsLFwiU2FsZXNQZXJzb25JZFwiOm51bGwsXCJEZXNpZ25hdGlvblwiOjAsXCJMb2dpbklkXCI6XCJcIixcIlJvbGVHcm91cElkXCI6bnVsbCxcIkFjY291bnRTdGF0dXNcIjowLFwiRGVtb0N1c3RvbWVyXCI6ZmFsc2UsXCJJc0N1c3RvbWVyUGF5bWVudE1vZGVUb3BVcFwiOnRydWUsXCJjdXN0b21lclBheW1lbnRNb2RlXCI6NixcIlJlZklkXCI6XCIwODg3OTQ5ZjMwODc0YjE4OTM2ZDQzNmY3YjBmNTk2Y1wiLFwiaXNUaWNrZXRpbmdBbGxvd2VkXCI6dHJ1ZSxcIldhcnJhbnR5RW5hYmxlZFwiOmZhbHNlLFwiaXNSZXNlbGxlcl9DdXN0b21lclwiOmZhbHNlLFwiSXNGcmFuY2hpc2VHcm91cEFsbG93XCI6ZmFsc2UsXCJJc0Z1dHVyZVNoaXBtZW50QWxsb3dcIjp0cnVlLFwiSXNUcmFuc2l0SW5zdXJhbmNlT2ZmZXJpbmdPblwiOnRydWUsXCJJc1Byb3RlY3Rpb25QbGFuXCI6ZmFsc2UsXCJJc1JldHVyblNoaXBtZW50Rm9ybVwiOnRydWUsXCJJc0NvbW1vbkJpbGxpbmdcIjpmYWxzZSxcIklzTm90aWZpY2F0aW9uT2ZmXCI6dHJ1ZSxcIklzQWRtaW5cIjpmYWxzZSxcIklzQWRtaW5TdGFmZlwiOmZhbHNlLFwiSXNGcmFuY2hpc2VcIjpmYWxzZSxcIklzUmVzZWxsZXJcIjpmYWxzZSxcIklzU2FsZXNQZXJzb25cIjpmYWxzZSxcIklzU3RhZmZcIjpmYWxzZSxcIklzQWRtaW5TYWxlc1BlcnNvblwiOmZhbHNlLFwiSXNNdWx0aVNpdGVcIjpmYWxzZSxcIklzUmVzZWxsZXJPckZyYW5jaGlzZU9yU2FsZXNQZXJzb25PclN0YWZmXCI6ZmFsc2UsXCJJc1Jlc2VsbGVyT3JGcmFuY2hpc2VPclN0YWZmXCI6ZmFsc2UsXCJJc1Jlc2VsbGVyT3JGcmFuY2hpc2VcIjpmYWxzZSxcIklzTXVsdGlTaXRlQ3VzdG9tZXJcIjpmYWxzZSxcIklzRnJhbmNoaXNlX0N1c3RvbWVyXCI6dHJ1ZSxcIklzUmVzZWxsZXJfQ3VzdG9tZXJcIjpmYWxzZSxcIklzRnJhbmNoaXNlU2FsZXNQZXJzb25fQ3VzdG9tZXJcIjpmYWxzZSxcIklzQWRtaW5TYWxlc1BlcnNvbl9DdXN0b21lclwiOmZhbHNlfSxcIkF1dGhUeXBlXCI6Mn0iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9jb3VudHJ5IjoiZW4tQVUiLCJuYmYiOjE3NTk0NjQwNjksImV4cCI6MTc1OTQ5NjQ2OSwiaWF0IjoxNzU5NDY0MDY5LCJpc3MiOiJzZWxmIiwiYXVkIjoiaHR0cHM6Ly9wb3J0YWwud29ybGRvcHRpb25zLmNvbS8ifQ.XBQ17bQj7_3LKLfkEXSvsBAUJhL-TPV6tT-dqWO4Bn0_en-AU"
+        },
+        {
+          "name": "ProfilePictureURL",
+          "value": ""
+        },
+        {
+          "name": "hdfWoSiteUrl",
+          "value": "https://prelive-au-customerapi.worldoptions.com/api/"
+        },
+        {
+          "name": "IsStopCustomer",
+          "value": "false"
+        },
+        {
+          "name": "IsLoqateAPIAllowed",
+          "value": "false"
+        },
+        {
+          "name": "CompanyLogo",
+          "value": ""
+        },
+        {
+          "name": "hdfWoAutoPrinterInterval",
+          "value": "0"
+        },
+        {
+          "name": "IsAdminMultiTabEnabled",
+          "value": "true"
+        },
+        {
+          "name": "IsDemoCustomer",
+          "value": "false"
+        },
+        {
+          "name": "IsMultiTabEnabled",
+          "value": "false"
+        },
+        {
+          "name": "apc_local_id",
+          "value": "6a411eca-bda4-4514-93cf-8015fd8cf7cd"
+        }
+      ]
+    }
+  ]
+}
