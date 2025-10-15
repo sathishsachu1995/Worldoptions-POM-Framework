@@ -1,0 +1,5 @@
+{
+    "username" : "WOATest",
+    "password" : "WOATest!@#",
+    "countryDropDown": "//span[@class='k-widget k-dropdown k-header country-dropdown']"
+}
